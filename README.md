@@ -18,31 +18,31 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 
 Send 1 ether as wei
 
-![alt=“”](Execution Results/Transaction1)
+![alt=“”](Execution Results/Transaction1.png)
 
 Send 10 ether as wei
 
-![alt=“”](Execution Results/Transaction2)
+![alt=“”](Execution Results/Transaction2.png)
 
 Send 5 ether 
 
-![alt=“”](Execution Results/Transaction3)
+![alt=“”](Execution Results/Transaction3.png)
 
 Balance 
 
-![alt=“”](Execution Results/balance1)
+![alt=“”](Execution Results/balance1.png)
 
-![alt=“”](Execution Results/balance2)
+![alt=“”](Execution Results/balance2.png)
 
 Contract Balance
 
-![alt=“”](Execution Results/contractbalance)
+![alt=“”](Execution Results/contractbalance.png)
 
 Withdraw
 
-![alt=“”](Execution Results/Withdraw1)
+![alt=“”](Execution Results/Withdraw1.png)
 
-![alt=“”](Execution Results/Withdraw2)
+![alt=“”](Execution Results/Withdraw2.png)
 
 
 
